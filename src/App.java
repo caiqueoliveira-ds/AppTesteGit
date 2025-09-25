@@ -3,5 +3,9 @@ public class App {
         while(true){
             
         }
+
+        for(;;){
+
+        }
     }
 }
